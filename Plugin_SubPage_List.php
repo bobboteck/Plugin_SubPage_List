@@ -7,7 +7,7 @@ Version: 0.0.1
 Author: Roberto D'Amico
 Author URI: http://www.officinerobotiche.it/
 */
-function PageList()
+function Bobboteck_PageList()
 {
 	$args = array(
 	'authors'      => '',
@@ -29,5 +29,5 @@ function PageList()
 	
 	wp_list_pages($args);
 }
-add_shortcode('or-subpage-list', 'PageList');
+add_shortcode('or-subpage-list', 'Bobboteck_PageList');
 ?>
