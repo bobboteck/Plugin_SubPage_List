@@ -20,7 +20,7 @@ Use the classic procedure to install the plugin:
 
 1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
-3. Add the shortcut [child-pages show_date="modified"] in a Page
+3. Add the shortcut [or-subpage-list] in a Page
 
 == Frequently Asked Questions ==
 
